@@ -1,8 +1,3 @@
-
-Python Summary Cheat Sheet - 3
-https://www.ccbp.in/
-
-
 Built - In - Functions
 Name	Usage
 print()	Function prints the message to the screen or any other standard output device.
